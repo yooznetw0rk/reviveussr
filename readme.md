@@ -1,1 +1,3 @@
 GLORY TO THE USSR
+
+<img src="IMG_20230530_181657.jpg">
