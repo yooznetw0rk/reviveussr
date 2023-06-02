@@ -2,7 +2,7 @@ const inputElem = document.querySelector('input');
 
 // DB
 let addreses = [
-    { isp: 'IRC - MBT 1', ip: 'cdn1.hostpro.tech' },
+    { isp: 'IRC - MBT 1', ip: 'cdn.hostpro.tech' },
     { isp: 'IRC - MBT 2', ip: 'cdn2.hostpro.tech' },
     { isp: 'IRC - MBT 3', ip: 'cdn3.hostpro.tech' }
 ]
